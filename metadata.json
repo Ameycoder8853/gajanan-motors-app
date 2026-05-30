@@ -1,0 +1,6 @@
+{
+  "name": "Gajanan Motors",
+  "description": "App that displays Gajanan Motors website in a fullscreen WebView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
